@@ -63,14 +63,3 @@ For POST/PUT, set Body → raw → JSON and send the required payload.
 
 Check returned HTTP status codes (200, 201, 404, etc.).
 
-project structure 
-
-RestminiProject/
-├─ src/main/java/com/example/restminiproject/
-│  ├─ controller/
-│  ├─ service/
-│  ├─ repository/
-│  └─ RestminiProjectApplication.java
-├─ src/main/resources/
-│  └─ application.properties
-└─ pom.xml
